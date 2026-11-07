@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning **Artificial Intelligence, Machine Learning and Generative AI**
 - 👨‍💻 I'm currently working on **AI-powered applications and real-world projects**
 - 🎓 Pursuing Computer Science Engineering at **KLE Technological University**
-- 📄 Check out my resume here - **[My Resume](YOUR_RESUME_LINK)**
+- 📄 Check out my resume here - **[My Resume](https://drive.google.com/file/d/10498sDpHvvasyVqYd-xGvd1xC_AsIKGO/view?usp=drive_link)**
 - 💻 All of my projects are available on **[GitHub](https://github.com/raghavendra-K-178)**
 - 💬 Ask me about **Python, C++, AI/ML, RAG and JAVA**
 - 📫 Reach out to me at **raghavendrakolakar305@gmail.com**
