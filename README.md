@@ -11,7 +11,7 @@
 - 🎓 Pursuing Computer Science Engineering at **KLE Technological University**
 - 📄 Check out my resume here - **[My Resume](YOUR_RESUME_LINK)**
 - 💻 All of my projects are available on **[GitHub](https://github.com/raghavendra-K-178)**
-- 💬 Ask me about **Python, C++, AI/ML, RAG and Full-Stack Development**
+- 💬 Ask me about **Python, C++, AI/ML, RAG and JAVA**
 - 📫 Reach out to me at **raghavendrakolakar305@gmail.com**
 - 🏆 Kho Kho Team Captain | South Zone Inter-University Competition
 
@@ -26,23 +26,7 @@
 </a>
 </p>
 
----
 
-### 📊 GitHub Stats:
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavendra-K-178&show_icons=true&locale=en&theme=tokyonight" alt="raghavendra-K-178" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendra-K-178&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavendra-K-178&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🚀 Featured Projects:
 
